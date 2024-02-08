@@ -29,7 +29,7 @@
             <!-- navbar -->
             <nav class="navbar navbar-expand-lg bg-body-tertiary fixed-top" id="navbar-spy">
             <div class="container">
-                <a class="navbar-brand fw-bold fs-2" href="#">Wear Smart<span class="dot">.</span></a>
+                <a class="navbar-brand fw-bold fs-2" href="#">Mohamed ali<span class="dot">.</span></a>
                 <button
                 class="navbar-toggler"
                 type="button"
