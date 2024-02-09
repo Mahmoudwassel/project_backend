@@ -7,7 +7,6 @@ a{
     text-decoration: none;
     color: #111;
 }
-
 body{
     font-family: 'Nunito Sans', sans-serif;
 }
@@ -80,12 +79,25 @@ nav li:hover .nav-link{
 {
     color: var(--mainColor);
 }
+
 /* home */
 header {
-    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)) ,url(../images/header-bg.jpg);
+    background-image:url(../images/background.png);
     height: 100vh;
     background-position: center;
     background-size: cover;
+}
+header .heedercontent
+{
+    color: #fff;
+    
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: large;
+}
+header .heedercontent span
+{
+    color: #49108B;
 }
 header .main-title{
     font-size: 60px;
@@ -193,4 +205,23 @@ color: #111
 .drop.active
 {
     background-color: #000 !important;
+}
+.Collection img
+{
+    height: 250px;
+}
+/* ================ */
+.Category .Catimg
+{
+    position: relative;
+}
+.Category .collectionlayer
+{
+    color: #fff;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translateX(-50%);
+    border: #fff solid 2px;
+    padding: 10px;
 }
