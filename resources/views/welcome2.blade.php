@@ -82,20 +82,17 @@
             </nav>
             <!-- //////////////////////////////////////////////////////////////////////// -->
             <!-- header -->
-            <header
-            id="home"
-            class="header d-flex justify-content-center align-items-center"
-            >
-            
-            <div class="container text-center text-white">
-                <h4>Welcome</h4>
-                <h1 >AI ChatBot Assist For Fashion </h1>
-                <p class="p-header py-3">
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sequi, eligendi?
-                </p>
-                <a href="#Collection" class="scroll"></a>
-            </div>
-            </header>
+                <header
+          id="home"
+          class="header d-flex justify-content-center align-items-center"
+        >
+        
+          <div class="container text-center w-auto p5 heedercontent">
+            <h4>Welcome</h4>
+            <h1 ><span>AI ChatBot</span> Assist For Fashion ........</h1>
+            <a href="#Collection" class="scroll"></a>
+          </div>
+        </header>
         
             <!-- //////////////////////////////////////////////////////////////////////// -->
         
